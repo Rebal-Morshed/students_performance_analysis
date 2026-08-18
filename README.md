@@ -1,6 +1,6 @@
 # students_performance_analysis
 
-This project analyzes student exam performance using Python and Pandas.
+This project analyzes student exam performance using Python, Pandas & Matplotlib.
 
 ## Objectives:
 - Understand student score distributions
